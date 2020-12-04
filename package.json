@@ -17,6 +17,11 @@
     "link",
     "apollo-link"
   ],
+  "author": "Réda Boumahdi <reda.boumahdi@haroldwaste.com> (https://www.haroldwaste.com/)",
+  "bugs": {
+    "url": "https://github.com/harold-waste/apollo-remove-typename-mutation-link/issues"
+  },
+  "homepage": "https://github.com/harold-waste/apollo-remove-typename-mutation-link",
   "dependencies": {
     "@apollo/client": "^3.3.3",
     "graphql": "^15.4.0",

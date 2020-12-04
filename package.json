@@ -1,6 +1,6 @@
 {
   "name": "apollo-remove-typename-mutation-link",
-  "version": "3.3.8",
+  "version": "3.3.9",
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
